@@ -2,8 +2,8 @@
 
 A web app for subscribing to a mailing list.
 
-![](signUpPage.png)
+![](/public/image/signUpPage.png)
 
-![](sResponse.png)
+![](/public/image/sResponse.png)
 
-![](subscribed.png)
+![](/public/image/subscribed.png)
